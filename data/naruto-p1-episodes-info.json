@@ -2,1101 +2,1321 @@
     {
         "number": 1,
         "title": "Enter: Naruto Uzumaki!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Enter:_Naruto_Uzumaki!"
     },
     {
         "number": 2,
         "title": "My Name is Konohamaru!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/My_Name_is_Konohamaru!"
     },
     {
         "number": 3,
         "title": "Sasuke and Sakura: Friends or Foes?",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Sasuke_and_Sakura:_Friends_or_Foes%3F"
     },
     {
         "number": 4,
         "title": "Pass or Fail: Survival Test",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Pass_or_Fail:_Survival_Test"
     },
     {
         "number": 5,
         "title": "You Failed! Kakashi's Final Decision",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/You_Failed!_Kakashi%27s_Final_Decision"
     },
     {
         "number": 6,
         "title": "A Dangerous Mission! Journey to the Land of Waves!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/A_Dangerous_Mission!_Journey_to_the_Land_of_Waves!"
     },
     {
         "number": 7,
         "title": "The Assassin of the Mist!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Assassin_of_the_Mist!"
     },
     {
         "number": 8,
         "title": "The Oath of Pain",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Oath_of_Pain"
     },
     {
         "number": 9,
         "title": "Kakashi: Sharingan Warrior",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Kakashi:_Sharingan_Warrior!"
     },
     {
         "number": 10,
         "title": "The Forest of Chakra",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Forest_of_Chakra"
     },
     {
         "number": 11,
         "title": "The Land Where a Hero Once Lived",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Land_Where_a_Hero_Once_Lived"
     },
     {
         "number": 12,
         "title": "Battle on the Bridge! Zabuza Returns!!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Battle_on_the_Bridge!_Zabuza_Returns!"
     },
     {
         "number": 13,
         "title": "Haku's Secret Jutsu: Crystal Ice Mirrors",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Haku%27s_Secret_Jutsu:_Demonic_Mirroring_Ice_Crystals"
     },
     {
         "number": 14,
         "title": "The Number One Hyperactive, Knucklehead Ninja Joins the Fight!!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Number_One_Hyperactive,_Knucklehead_Ninja_Joins_the_Fight!"
     },
     {
         "number": 15,
         "title": "Zero Visibility: The Sharingan Shatters",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Zero_Visibility:_The_Sharingan_Shatters"
     },
     {
         "number": 16,
         "title": "The Broken Seal",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Broken_Seal"
     },
     {
         "number": 17,
         "title": "White Past: Hidden Ambition",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/White_Past:_Hidden_Ambition"
     },
     {
         "number": 18,
         "title": "The Weapons Known as Shinobi",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Weapons_Known_as_Shinobi"
     },
     {
         "number": 19,
         "title": "The Demon in the Snow",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Demon_in_the_Snow"
     },
     {
         "number": 20,
         "title": "A New Chapter Begins: The Chunin Exam!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/A_New_Chapter_Begins:_The_Ch%C5%ABnin_Exam!"
     },
     {
         "number": 21,
         "title": "Identify Yourself: Powerful New Rivals",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Identify_Yourself:_Powerful_New_Rivals"
     },
     {
         "number": 22,
         "title": "Chunin Challenge: Rock Lee vs. Sasuke!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Ch%C5%ABnin_Challenge:_Rock_Lee_vs._Sasuke!"
     },
     {
         "number": 23,
         "title": "Genin Takedown! All Nine Rookies Face Off!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Genin_Takedown!_All_Nine_Rookies_Face_Off!"
     },
     {
         "number": 24,
         "title": "Start Your Engines: The Chunin Exam Begins!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Start_Your_Engines:_The_Ch%C5%ABnin_Exam_Begins!"
     },
     {
         "number": 25,
         "title": "The Tenth Question: All or Nothing!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Tenth_Question:_All_or_Nothing!"
     },
     {
         "number": 26,
         "title": "Special Report: Live from the Forest of Death!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Special_Report:_Live_from_the_Forest_of_Death!"
     },
     {
         "number": 27,
         "title": "The Chunin Exam Stage 2: The Forest of Death",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Ch%C5%ABnin_Exam_Stage_2:_The_Forest_of_Death"
     },
     {
         "number": 28,
         "title": "Eat or be Eaten: Panic in the Forest",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Eat_or_be_Eaten:_Panic_in_the_Forest"
     },
     {
         "number": 29,
         "title": "Naruto's Counterattack: Never Give In!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Naruto%27s_Counterattack:_Never_Give_In!"
     },
     {
         "number": 30,
         "title": "The Sharingan Revived: Dragon-Flame Jutsu!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Sharingan_Revived:_Dragon-Flame_Jutsu!"
     },
     {
         "number": 31,
         "title": "Bushy Brow's Pledge: Undying Love and Protection!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Bushy_Brow%27s_Pledge:_Undying_Love_and_Protection!"
     },
     {
         "number": 32,
         "title": "Sakura Blossoms!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Sakura_Blossoms!"
     },
     {
         "number": 33,
         "title": "Battle Formation: Ino-Shika-Cho!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Battle_Formation:_Ino%E2%80%93Shika%E2%80%93Ch%C5%8D!!"
     },
     {
         "number": 34,
         "title": "Akamaru Trembles: Gaara's Cruel Strength!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Akamaru_Trembles:_Gaara%27s_Cruel_Strength!"
     },
     {
         "number": 35,
         "title": "The Scroll's Secret: No Peeking Allowed",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Scroll%27s_Secret:_No_Peeking_Allowed"
     },
     {
         "number": 36,
         "title": "Clone vs. Clone: Mine are Better than Yours!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Clone_vs._Clone:_Mine_are_Better_Than_Yours!"
     },
     {
         "number": 37,
         "title": "Surviving the Cut! The Rookie Nine Together Again!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Surviving_the_Cut:_The_Rookie_9_Together_Again!"
     },
     {
         "number": 38,
         "title": "Narrowing the Field: Sudden Death Elimination!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Narrowing_the_Field:_Sudden_Death_Elimination!"
     },
     {
         "number": 39,
         "title": "Bushy Brow's Jealousy: Lions Barrage Unleashed!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Bushy_Brow%27s_Jealousy:_Lions_Barrage_Unleashed!"
     },
     {
         "number": 40,
         "title": "Kakashi and Orochimaru: Face-to-Face!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Kakashi_and_Orochimaru:_Face-to-Face!"
     },
     {
         "number": 41,
         "title": "Kunoichi Rumble: The Rivals Get Serious!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Kunoichi_Rumble:_The_Rivals_Get_Serious!"
     },
     {
         "number": 42,
         "title": "The Ultimate Battle: Cha!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Ultimate_Battle:_Cha!"
     },
     {
         "number": 43,
         "title": "Killer Kunoichi and a Shaky Shikamaru",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Killer_Kunoichi_and_a_Shaky_Shikamaru"
     },
     {
         "number": 44,
         "title": "Akamaru Unleashed! Who's Top Dog Now?",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Akamaru_Unleashed!_Who%27s_Top_Dog_Now%3F"
     },
     {
         "number": 45,
         "title": "Surprise Attack! Naruto's Secret Weapon!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Surprise_Attack!_Naruto%27s_Secret_Weapon!"
     },
     {
         "number": 46,
         "title": "Byakugan Battle: Hinata Grows Bold!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Byakugan_Battle:_Hinata_Grows_Bold!"
     },
     {
         "number": 47,
         "title": "A Failure Stands Tall!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/A_Failure_Stands_Tall!"
     },
     {
         "number": 48,
         "title": "Gaara vs. Rock Lee: The Power of Youth Explodes!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Gaara_vs._Rock_Lee:_The_Power_of_Youth_Explodes!"
     },
     {
         "number": 49,
         "title": "Lee's Hidden Strength: Forbidden Secret Jutsu!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Lee%27s_Hidden_Strength:_Forbidden_Secret_Jutsu!"
     },
     {
         "number": 50,
         "title": "The Fifth Gate: A Splendid Ninja is Born",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Fifth_Gate:_A_Splendid_Ninja_is_Born"
     },
     {
         "number": 51,
         "title": "A Shadow in Darkness: Danger Approaches Sasuke",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/A_Shadow_in_Darkness:_Danger_Approaches_Sasuke"
     },
     {
         "number": 52,
         "title": "Ebisu Returns: Naruto's Toughest Training Yet!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Ebisu_Returns:_Naruto%27s_Toughest_Training_Yet!"
     },
     {
         "number": 53,
         "title": "Long Time No See: Jiraiya Returns!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Long_Time_No_See:_Jiraiya_Returns!"
     },
     {
         "number": 54,
         "title": "The Summoning Jutsu: Wisdom of the Toad Sage!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Summoning_Technique:_Wisdom_of_the_Toad_Sage!"
     },
     {
         "number": 55,
         "title": "A Feeling of Yearning, A Flower Full of Hope",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/A_Feeling_of_Yearning,_a_Flower_Full_of_Hope"
     },
     {
         "number": 56,
         "title": "Live or Die: Risk it All to Win it All!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Live_or_Die:_Risk_it_All_to_Win_it_All!"
     },
     {
         "number": 57,
         "title": "He Flies! He Jumps! He Lurks! Chief Toad Appears!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/He_Flies!_He_Jumps!_He_Lurks!_Chief_Toad_Appears!"
     },
     {
         "number": 58,
         "title": "Hospital Besieged: The Evil Hand Revealed!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Hospital_Besieged:_The_Evil_Hand_Revealed!"
     },
     {
         "number": 59,
         "title": "The Final Rounds: Rush to the Battle Arena!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Final_Rounds:_Rush_to_the_Battle_Arena!"
     },
     {
         "number": 60,
         "title": "Byakugan vs. Shadow Clone",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Byakugan_vs._Shadow_Clone_Technique!"
     },
     {
         "number": 61,
         "title": "Ultimate Defense: Zero Blind Spot!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Ultimate_Defence:_Zero_Blind_Spot!"
     },
     {
         "number": 62,
         "title": "A Failure's True Power",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/A_Failure%27s_True_Power"
     },
     {
         "number": 63,
         "title": "Hit it or Quit it: The Final Rounds Get Complicated!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Hit_it_or_Quit_it:_The_Final_Rounds_Get_Complicated!"
     },
     {
         "number": 64,
         "title": "Zero Motivation: The Guy with Cloud Envy!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Zero_Motivation:_The_Guy_with_Cloud_Envy!"
     },
     {
         "number": 65,
         "title": "Dancing Leaf, Squirming Sand",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Dancing_Leaf,_Squirming_Sand"
     },
     {
         "number": 66,
         "title": "Bushy Brow's Jutsu: Sasuke Style!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Bushy_Brow%27s_Jutsu:_Sasuke_Style!"
     },
     {
         "number": 67,
         "title": "Late for the Show, But Ready to Go! The Ultimate Secret Technique is Born!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Late_for_the_Show,_but_Ready_to_Go!_The_Ultimate_Secret_Technique_is_Born!"
     },
     {
         "number": 68,
         "title": "Zero Hour! The Destruction of the Hidden Leaf Village Begins!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Zero_Hour!_The_Konoha_Crush_Begins!"
     },
     {
         "number": 69,
         "title": "Village in Distress: A New A-Ranked Mission!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Village_in_Distress:_A_New_A-Ranked_Mission!"
     },
     {
         "number": 70,
         "title": "A Shirker's Call to Action: A Layabout No More!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/A_Shirker%27s_Call_to_Action:_A_Layabout_No_More!"
     },
     {
         "number": 71,
         "title": "An Unrivaled Match: Hokage Battle Royale!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/An_Unrivaled_Match:_Hokage_Battle_Royale!"
     },
     {
         "number": 72,
         "title": "A Mistake from the Past: A Face Revealed!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/A_Mistake_from_the_Past:_A_Face_Revealed!"
     },
     {
         "number": 73,
         "title": "Forbidden Secret Technique: Reaper Death Seal!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Forbidden_Secret_Technique:_Dead_Demon_Consuming_Seal!"
     },
     {
         "number": 74,
         "title": "Astonishing Truth! Gaara's Identity Emerges!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Astonishing_Truth!_Gaara%27s_Identity_Emerges!"
     },
     {
         "number": 75,
         "title": "Sasuke's Decision: Pushed to the Edge!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Sasuke%27s_Decision:_Pushed_to_the_Edge!"
     },
     {
         "number": 76,
         "title": "Assassin of the Moonlit Night",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Assassin_of_the_Moonlit_Night"
     },
     {
         "number": 77,
         "title": "Light vs. Dark: The Two Faces of Gaara",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Light_vs._Dark:_The_Two_Faces_of_Gaara"
     },
     {
         "number": 78,
         "title": "Naruto's Ninja Handbook",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Naruto%27s_Ninja_Handbook"
     },
     {
         "number": 79,
         "title": "Beyond the Limit of Darkness and Light",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Beyond_the_Limit_of_Darkness_and_Light"
     },
     {
         "number": 80,
         "title": "The Third Hokage, Forever...",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Third_Hokage,_Forever%E2%80%A6"
     },
     {
         "number": 81,
         "title": "Return of the Morning Mist",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Return_of_the_Morning_Mist"
     },
     {
         "number": 82,
         "title": "Eye to Eye: Sharingan vs. Sharingan!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Eye_to_Eye:_Sharingan_vs._Sharingan!"
     },
     {
         "number": 83,
         "title": "Jiraiya: Naruto's Potential Disaster!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Jiraiya:_Naruto%27s_Potential_Disaster!"
     },
     {
         "number": 84,
         "title": "Roar, Chidori! Brother vs. Brother!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Roar,_Chidori!_Brother_vs._Brother!"
     },
     {
         "number": 85,
         "title": "Hate Among the Uchihas: The Last of the Clan!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Hate_Among_the_Uchihas:_The_Last_of_the_Clan!"
     },
     {
         "number": 86,
         "title": "A New Training Begins: I Will Be Strong!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/A_New_Training_Begins:_I_Will_Be_Strong!"
     },
     {
         "number": 87,
         "title": "Keep on Training: Pop Goes the Water Balloon!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Keep_on_Training:_Pop_Goes_the_Water_Balloon!"
     },
     {
         "number": 88,
         "title": "Focal Point: The Mark of the Leaf",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Focal_Point:_The_Mark_of_the_Leaf"
     },
     {
         "number": 89,
         "title": "An Impossible Choice: The Pain Within Tsunade's Heart",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/An_Impossible_Choice:_The_Pain_Within_Tsunade%27s_Heart"
     },
     {
         "number": 90,
         "title": "Unforgivable! A Total Lack of Respect!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Unforgivable!_A_Total_Lack_of_Respect!"
     },
     {
         "number": 91,
         "title": "Inheritence! The Necklace of Death!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Inheritance!_The_Necklace_of_Death!"
     },
     {
         "number": 92,
         "title": "A Dubious Offer! Tsunade's Choice!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/A_Dubious_Offer!_Tsunade%27s_Choice!"
     },
     {
         "number": 93,
         "title": "Breakdown! The Deal is Off!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Breakdown!_The_Deal_is_Off!"
     },
     {
         "number": 94,
         "title": "Attack! Fury of the Rasengan!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Attack!_Fury_of_the_Rasengan!"
     },
     {
         "number": 95,
         "title": "The Fifth Hokage! A Life on the Line!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Fifth_Hokage!_A_Life_on_the_Line!"
     },
     {
         "number": 96,
         "title": "Deadlock! Sannin Showdown!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Deadlock!_Sannin_Showdown!"
     },
     {
         "number": 97,
         "title": "Kidnapped! Naruto's Hot Spring Adventure!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Kidnapped!_Naruto%27s_Hot_Spring_Adventure!"
     },
     {
         "number": 98,
         "title": "Tsunade's Warning: Ninja No More!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Tsunade%27s_Warning:_Ninja_No_More!"
     },
     {
         "number": 99,
         "title": "The Will of Fire Still Burns!",
-        "type": "Anime Canon"
+        "type": "Anime Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Will_of_Fire_Still_Burns!"
     },
     {
         "number": 100,
         "title": "Sensei and Student: The Bond of the Shinobi",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Sensei_and_Student:_The_Bond_of_the_Shinobi"
     },
     {
         "number": 101,
         "title": "Gotta See! Gotta Know! Kakashi-Sensei's True Face!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Gotta_See!_Gotta_Know!_Kakashi-Sensei%27s_True_Face!"
     },
     {
         "number": 102,
         "title": "Mission: Help an Old Friend in the Land of Tea",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Mission:_Help_an_Old_Friend_in_the_Land_of_Tea"
     },
     {
         "number": 103,
         "title": "The Race is on! Trouble on the High Seas!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Race_is_On!_Trouble_on_the_High_Seas!"
     },
     {
         "number": 104,
         "title": "Run Idate Run! Nagi Island Awaits!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Run_Idate_Run!_Nagi_Island_Awaits!"
     },
     {
         "number": 105,
         "title": "A Fierce Battle of Rolling Thunder!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/A_Fierce_Battle_of_Rolling_Thunder!"
     },
     {
         "number": 106,
         "title": "The Last Leg: A Final Act of Desperation",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Last_Leg:_A_Final_Act_of_Desperation"
     },
     {
         "number": 107,
         "title": "The Battle Begins: Naruto vs. Sasuke",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Battle_Begins:_Naruto_vs._Sasuke"
     },
     {
         "number": 108,
         "title": "Bitter Rivals and Broken Bonds",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Bitter_Rivals_and_Broken_Bonds"
     },
     {
         "number": 109,
         "title": "An Invitation from the Sound",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Oto%27s_Invitation"
     },
     {
         "number": 110,
         "title": "Formation! The Sasuke Retrieval Squad",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Formation!_The_Sasuke_Recovery_Team"
     },
     {
         "number": 111,
         "title": "Sound vs. Leaf",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Sound_vs._Leaf"
     },
     {
         "number": 112,
         "title": "Squad Mutiny: Everything Falls Apart!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Squad_Mutiny:_Everything_Falls_Apart!"
     },
     {
         "number": 113,
         "title": "Full Throttle Power! Choji, Ablaze!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Full_Throttle_Power!_Ch%C5%8Dji,_Ablaze!"
     },
     {
         "number": 114,
         "title": "Good-bye Old Friend...! I'll Always Believe in You!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Good-bye_Old_Friend%E2%80%A6!_I%27ll_Always_Believe_in_You!"
     },
     {
         "number": 115,
         "title": "Your Opponent Is Me!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Your_Opponent_is_Me!"
     },
     {
         "number": 116,
         "title": "360 Degrees of Vision: The Byakugan's Blind Spot",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/360_Degrees_of_Vision:_The_Byakugan%27s_Blind_Spot"
     },
     {
         "number": 117,
         "title": "Losing is Not an Option!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Losing_is_Not_an_Option!"
     },
     {
         "number": 118,
         "title": "The Vessel Arrives Too Late",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Vessel_Arrives_Too_Late"
     },
     {
         "number": 119,
         "title": "Miscalculation: A New Enemy Appears!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Miscalculation:_A_New_Enemy_Appears!"
     },
     {
         "number": 120,
         "title": "Roar and Howl! The Ultimate Tag Team",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Roar_and_Howl!_The_Ultimate_Tag-Team!"
     },
     {
         "number": 121,
         "title": "To Each His Own Battle",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/To_Each_His_Own_Battle"
     },
     {
         "number": 122,
         "title": "Fakeout: Shikamaru's Comeback!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Fakeout:_Shikamaru%27s_Comeback!"
     },
     {
         "number": 123,
         "title": "The Leaf's Handsome Devil!",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Leaf%27s_Handsome_Devil!"
     },
     {
         "number": 124,
         "title": "The Beast Within",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Beast_Within"
     },
     {
         "number": 125,
         "title": "The Sand Shinobi: Allies of the Leaf",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Sand_Shinobi:_Allies_of_the_Leaf"
     },
     {
         "number": 126,
         "title": "Showdown: Gaara vs. Kimimaro!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Showdown:_Gaara_vs._Kimimaro"
     },
     {
         "number": 127,
         "title": "Vengeful Strike! The Bracken Dance",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Vengeful_Strike!_The_Bracken_Dance!"
     },
     {
         "number": 128,
         "title": "A Cry on Deaf Ears",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/A_Cry_on_Deaf_Ears"
     },
     {
         "number": 129,
         "title": "Brothers: Distance Among the Uchiha",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Brothers:_Distance_Among_the_Uchiha"
     },
     {
         "number": 130,
         "title": "Father and Son, the Broken Crest",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Father_and_Son,_the_Broken_Crest"
     },
     {
         "number": 131,
         "title": "The Secrets of the Mangekyo Sharingan!",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Secrets_of_the_Mangeky%C5%8D_Sharingan"
     },
     {
         "number": 132,
         "title": "For a Friend",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/For_a_Friend%E2%80%A6"
     },
     {
         "number": 133,
         "title": "A Plea From a Friend",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/A_Plea_from_a_Friend"
     },
     {
         "number": 134,
         "title": "The End of Tears",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_End_of_Tears"
     },
     {
         "number": 135,
         "title": "The Promise That Could Not Be Kept",
-        "type": "Manga Canon"
+        "type": "Manga Canon",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Promise_That_Could_Not_Be_Kept"
     },
     {
         "number": 136,
         "title": "Deep Cover!? A Super S-Ranked Mission!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Deep_Cover%3F!_A_Super_S-Ranked_Mission!"
     },
     {
         "number": 137,
         "title": "A Town of Outlaws, the Shadow of the Fuma Clan",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/A_Town_of_Outlaws,_The_Shadow_of_the_F%C5%ABma_Clan"
     },
     {
         "number": 138,
         "title": "Pure Betrayal, and a Fleeting Plea!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Pure_Betrayal_and_a_Fleeting_Plea"
     },
     {
         "number": 139,
         "title": "Pure Terror! The House of Orochimaru",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Pure_Terror!_The_House_of_Orochimaru!"
     },
     {
         "number": 140,
         "title": "Two Heartbeats: Kabuto's Trap",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Two_Heartbeats:_Kabuto%27s_Trap"
     },
     {
         "number": 141,
         "title": "Sakura's Determination",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Sakura%27s_Determination!"
     },
     {
         "number": 142,
         "title": "The Three Villains from the Maximum Security Prison",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Three_Villains_from_the_Maximum_Security_Prison"
     },
     {
         "number": 143,
         "title": "Tonton! I'm Counting on You!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Tonton!_I%27m_Counting_on_You!"
     },
     {
         "number": 144,
         "title": "A New Squad! Two People and a Dog?!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/A_New_Squad!_Two_People_and_a_Dog%3F!"
     },
     {
         "number": 145,
         "title": "A New Formation: Ino-Shika-Cho!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/A_New_Formation:_Ino%E2%80%93Shika%E2%80%93Ch%C5%8D!"
     },
     {
         "number": 146,
         "title": "Orochimaru's Shadow",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Remaining_Ambition:_Orochimaru%27s_Shadow"
     },
     {
         "number": 147,
         "title": "A Clash of Fate: You Can't Bring Me Down",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/A_Clash_of_Fate:_You_Can%27t_Bring_Me_Down!"
     },
     {
         "number": 148,
         "title": "Search for the Rare Bikochu Beetle",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Search_for_the_Rare_Bik%C5%8Dch%C5%AB_Beetle"
     },
     {
         "number": 149,
         "title": "What's the Difference? Don't All Insects Look Alike?",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/What%27s_the_Difference%3F_Don%27t_All_Insects_Look_Alike%3F"
     },
     {
         "number": 150,
         "title": "A Battle of Bugs: The Deceivers and the Deceived",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/A_Battle_of_Bugs!_The_Deceivers_and_the_Deceived!"
     },
     {
         "number": 151,
         "title": "Blaze Away Byakugan: This Is My Ninja Way",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Blaze_Away,_Byakugan!_This_is_My_Ninja_Way!"
     },
     {
         "number": 152,
         "title": "Funeral March for the Living",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Funeral_March_for_the_Living"
     },
     {
         "number": 153,
         "title": "A Lesson Learned: The Iron Fist of Love",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/A_Lesson_Learned:_The_Iron_Fist_of_Love!"
     },
     {
         "number": 154,
         "title": "The Enemy of the Byakugan",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Enemy_of_the_Byakugan"
     },
     {
         "number": 155,
         "title": "The Dark Creeping Clouds",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Dark_Creeping_Clouds"
     },
     {
         "number": 156,
         "title": "Raiga's Counterattack",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Raiga%27s_Counterattack"
     },
     {
         "number": 157,
         "title": "Run! The Curry of Life",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Run!_The_Curry_of_Life!"
     },
     {
         "number": 158,
         "title": "Follow My Lead! The Great Survival Challenge",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Follow_My_Lead!_The_Great_Survival_Challenge"
     },
     {
         "number": 159,
         "title": "Bounty Hunter from the Wilderness",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Bounty_Hunter_from_the_Wilderness"
     },
     {
         "number": 160,
         "title": "Hunt or Be Hunted?! Showdown at the O.K. Temple!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Hunt_or_Be_Hunted%3F!_Showdown_at_the_O.K._Temple!"
     },
     {
         "number": 161,
         "title": "The Appearance of Strange Visitors",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Appearance_of_Strange_Visitors"
     },
     {
         "number": 162,
         "title": "The Cursed Warrior",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Cursed_Warrior"
     },
     {
         "number": 163,
         "title": "The Tactician's Intent",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Tactician%27s_Intent"
     },
     {
         "number": 164,
         "title": "Too Late for Help",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Too_Late_for_Help"
     },
     {
         "number": 165,
         "title": "The Death of Naruto",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Death_of_Naruto"
     },
     {
         "number": 166,
         "title": "When Time Stands Still",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/When_Time_Stands_Still"
     },
     {
         "number": 167,
         "title": "When Egrets Flap Their Wings",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/When_Egrets_Flap_Their_Wings"
     },
     {
         "number": 168,
         "title": "Mix It, Stretch It, Boil It Up! Burn, Copper Pot, Burn!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Mix_it,_Stretch_it,_Boil_it_Up!_Burn_Copper_Pot,_Burn!"
     },
     {
         "number": 169,
         "title": "Remembrance: The Lost Page",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Remembrance:_The_Lost_Page"
     },
     {
         "number": 170,
         "title": "The Closed Door",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Closed_Door"
     },
     {
         "number": 171,
         "title": "Infiltration: The Set-Up!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Infiltration:_The_Set-Up!"
     },
     {
         "number": 172,
         "title": "Despair: A Fractured Heart",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Despair:_A_Fractured_Heart"
     },
     {
         "number": 173,
         "title": "The Battle at Sea: The Power Unleashed!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Battle_at_Sea:_The_Power_Unleashed!"
     },
     {
         "number": 174,
         "title": "Impossible! Celebrity Ninja Art - Money Style Jutsu!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Impossible!_Celebrity_Ninja_Art:_Money_Style_Jutsu!"
     },
     {
         "number": 175,
         "title": "The Treasure Hunt is On!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Treasure_Hunt_is_On!"
     },
     {
         "number": 176,
         "title": "Run, Dodge, Zigzag! Chase or Be Chased!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Run,_Dodge,_Zigzag!_Chase_or_Be_Chased!"
     },
     {
         "number": 177,
         "title": "Please, Mr. Postman!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Please,_Mr._Postman!"
     },
     {
         "number": 178,
         "title": "Encounter! The Boy with a Star's Name",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Encounter!_The_Boy_with_a_Star%27s_Name"
     },
     {
         "number": 179,
         "title": "The Remembered Lullaby",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Remembered_Lullaby"
     },
     {
         "number": 180,
         "title": "Hidden Jutsu: The Price of The Ninja Art: Kujaku",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Hidden_Jutsu!_The_Price_of_Ninja_Art:_Kujaku"
     },
     {
         "number": 181,
         "title": "Hoshikage, The Buried Truth",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Hoshikage:_The_Buried_Truth"
     },
     {
         "number": 182,
         "title": "Reunion, The Remaining time",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Reunion:_The_Remaining_Time"
     },
     {
         "number": 183,
         "title": "The Star's Radiance",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Star%27s_Radiance"
     },
     {
         "number": 184,
         "title": "Kiba's Long Day!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Kiba%27s_Long_Day"
     },
     {
         "number": 185,
         "title": "A Legend from the Hidden Leaf: The Onbaa!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/A_Legend_from_the_Hidden_Leaf:_The_Onbaa!"
     },
     {
         "number": 186,
         "title": "Laughing Shino",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Laughing_Shino"
     },
     {
         "number": 187,
         "title": "Open for Business! The Leaf Moving Service",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Open_for_Business!_The_Leaf_Moving_Service"
     },
     {
         "number": 188,
         "title": "Mystery of the Targeted Merchants",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Mystery_of_the_Targeted_Merchants"
     },
     {
         "number": 189,
         "title": "A Limitless Supply of Ninja Tools",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/A_Limitless_Supply_of_Ninja_Tools"
     },
     {
         "number": 190,
         "title": "The Byakugan Sees the Blind Spot",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Byakugan_Sees_the_Blind_Spot!"
     },
     {
         "number": 191,
         "title": "Forecast: Death! Cloudy with Chance of Sun",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Forecast:_Death!_Cloudy_with_Chance_of_Sun!"
     },
     {
         "number": 192,
         "title": "Ino Screams! Chubby Paradise!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Ino_Screams!_Chubby_Paradise!"
     },
     {
         "number": 193,
         "title": "Viva Dojo Challenge! Youth Is All About Passion!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Viva_Dojo_Challenge!_Youth_is_All_About_Passion!"
     },
     {
         "number": 194,
         "title": "The Mysterious Curse of the Haunted Castle",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Mysterious_Curse_of_the_Haunted_Castle"
     },
     {
         "number": 195,
         "title": "The Third Super-Beast!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Third_Super-Beast!"
     },
     {
         "number": 196,
         "title": "Hot-Blooded Confrontation: Student vs. Sensei",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Hot-Blooded_Confrontation:_Student_vs._Sensei"
     },
     {
         "number": 197,
         "title": "Crisis! The Hidden Leaf 11 Gather!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Crisis:_The_Konoha_11_Gather!"
     },
     {
         "number": 198,
         "title": "The ANBU Gives Up? Naruto's Recollection",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Anbu_Gives_Up%3F_Naruto%27s_Recollection"
     },
     {
         "number": 199,
         "title": "The Missed Target",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Missed_Target"
     },
     {
         "number": 200,
         "title": "The Powerful Helper",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Powerful_Helper"
     },
     {
         "number": 201,
         "title": "Multiple Traps! Countdown to Destruction",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Multiple_Traps!_Countdown_to_Destruction"
     },
     {
         "number": 202,
         "title": "The Top 5 Ninja Battles",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Top_5_Ninja_Battles!"
     },
     {
         "number": 203,
         "title": "Kurenai's Decision, Squad 8 Left Behind",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Kurenai%27s_Decision:_Team_8_Left_Behind"
     },
     {
         "number": 204,
         "title": "Yakumo's Sealed Ability",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Yakumo%27s_Sealed_Power"
     },
     {
         "number": 205,
         "title": "Kurenai's Top-Secret Mission: The Promise With the Third Hokage",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Kurenai%27s_Top_Secret_Mission:_The_Promise_with_the_Third_Hokage"
     },
     {
         "number": 206,
         "title": "Genjutsu or Reality?",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Genjutsu_or_Reality%3F"
     },
     {
         "number": 207,
         "title": "The Supposed Sealed Ability",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Supposed_Sealed_Ability"
     },
     {
         "number": 208,
         "title": "The Weight of the Prized Artifact!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Weight_of_the_Prized_Artefact!"
     },
     {
         "number": 209,
         "title": "The Enemy: Ninja Dropouts",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Enemy:_Ninja_Dropouts"
     },
     {
         "number": 210,
         "title": "The Bewildering Forest",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Bewildering_Forest"
     },
     {
         "number": 211,
         "title": "Memory of Flames",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Memory_of_Flames"
     },
     {
         "number": 212,
         "title": "To Each His Own Path",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/To_Each_His_Own_Path"
     },
     {
         "number": 213,
         "title": "Vanished Memories",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Vanished_Memories"
     },
     {
         "number": 214,
         "title": "Bringing Back Reality",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Bringing_Back_Reality"
     },
     {
         "number": 215,
         "title": "A Past to Be Erased",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/A_Past_to_Be_Erased"
     },
     {
         "number": 216,
         "title": "The Targeted Shukaku",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Targeted_Shukaku"
     },
     {
         "number": 217,
         "title": "Sand Alliance with the Leaf Shinobi",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Sand_Alliance_With_the_Leaf_Shinobi"
     },
     {
         "number": 218,
         "title": "The Counterattack!",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Sealed_Sand:_The_Counterattack!"
     },
     {
         "number": 219,
         "title": "The Ultimate Weapon Reborn",
-        "type": "Filler"
+        "type": "Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/The_Ultimate_Weapon_Reborn"
     },
     {
         "number": 220,
         "title": "Departure",
-        "type": "Mixed Canon/Filler"
+        "type": "Mixed Canon/Filler",
+        "wikiUrl": "https://naruto.fandom.com/wiki/Departure_(episode)"
     }
 ]
