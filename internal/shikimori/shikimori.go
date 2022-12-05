@@ -18,12 +18,15 @@ const (
 	keyringUsername    = "narutoep"
 )
 
-var _client *http.Client
+var (
+	_conf   *oauth2.Config
+	_client *http.Client
+)
 
-func initClient() error {
+func initConfig() {
 	oauthCredentials := config.GetShikimoriOAuthCredentials()
 
-	conf := &oauth2.Config{
+	_conf = &oauth2.Config{
 		ClientID:     oauthCredentials.ClientID,
 		ClientSecret: oauthCredentials.ClientSecret,
 		Scopes:       []string{"user_rates"},
@@ -33,7 +36,18 @@ func initClient() error {
 		},
 		RedirectURL: "urn:ietf:wg:oauth:2.0:oob",
 	}
+}
 
+func getConfig() *oauth2.Config {
+	if _conf == nil {
+		initConfig()
+	}
+
+	return _conf
+}
+
+func initClient() error {
+	conf := getConfig()
 	ctx := context.Background()
 	token, err := getToken(conf, ctx)
 	if err != nil {
@@ -46,11 +60,20 @@ func initClient() error {
 	return nil
 }
 
+func getClient() (*http.Client, error) {
+	if _client == nil {
+		if err := initClient(); err != nil {
+			return nil, err
+		}
+	}
+
+	return _client, nil
+}
+
 func getToken(conf *oauth2.Config, ctx context.Context) (*oauth2.Token, error) {
 	tokenStr, err := keyring.Get(keyringServiceName, keyringUsername)
 	if err != nil {
-		// TODO: move this to cli command
-		return authenticate(conf, ctx)
+		return nil, fmt.Errorf("you are not authenticated: use narutoep auth")
 	}
 	token := &oauth2.Token{}
 	err = json.Unmarshal([]byte(tokenStr), &token)
@@ -59,31 +82,6 @@ func getToken(conf *oauth2.Config, ctx context.Context) (*oauth2.Token, error) {
 	}
 
 	// TODO: check token validity
-
-	return token, nil
-}
-
-func authenticate(conf *oauth2.Config, ctx context.Context) (*oauth2.Token, error) {
-	// Redirect user to consent page to ask for permission for the scopes specified above.
-	url := conf.AuthCodeURL("state", oauth2.AccessTypeOffline)
-	fmt.Printf("Visit the URL and get Authorization code: %v\n", url)
-
-	// Get the authorization code
-	var code string
-	fmt.Printf("Enter Authorization code: ")
-	if _, err := fmt.Scan(&code); err != nil {
-		return nil, fmt.Errorf("unable to read authorization code: %w", err)
-	}
-
-	// Exchange will do the handshake to retrieve the initial access token.
-	token, err := conf.Exchange(ctx, code)
-	if err != nil {
-		return nil, fmt.Errorf("unable to exchange authorization code: %w", err)
-	}
-
-	if err = saveToken(token); err != nil {
-		return nil, err
-	}
 
 	return token, nil
 }
@@ -102,14 +100,32 @@ func saveToken(token *oauth2.Token) error {
 	return nil
 }
 
-func getClient() (*http.Client, error) {
-	if _client == nil {
-		if err := initClient(); err != nil {
-			return nil, err
-		}
+func Authenticate() error {
+	conf := getConfig()
+	ctx := context.Background()
+
+	// Redirect user to consent page to ask for permission for the scopes specified above.
+	url := conf.AuthCodeURL("state", oauth2.AccessTypeOffline)
+	fmt.Printf("Visit the URL and get Authorization code: %v\n", url)
+
+	// Get the authorization code
+	var code string
+	fmt.Printf("Enter Authorization code: ")
+	if _, err := fmt.Scan(&code); err != nil {
+		return fmt.Errorf("unable to read authorization code: %w", err)
 	}
 
-	return _client, nil
+	// Exchange will do the handshake to retrieve the initial access token.
+	token, err := conf.Exchange(ctx, code)
+	if err != nil {
+		return fmt.Errorf("unable to exchange authorization code: %w", err)
+	}
+
+	if err = saveToken(token); err != nil {
+		return err
+	}
+
+	return nil
 }
 
 func doAPIRequest(method string, path string, body io.Reader) (*http.Response, error) {
