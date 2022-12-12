@@ -8,14 +8,14 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/abbit/narutoep/internal/config"
+	"github.com/abbit/naruw/internal/config"
 	"github.com/zalando/go-keyring"
 	"golang.org/x/oauth2"
 )
 
 const (
 	keyringServiceName = "shikimori-authorization-code"
-	keyringUsername    = "narutoep"
+	keyringUsername    = "naruw"
 )
 
 var (
@@ -73,7 +73,7 @@ func getClient() (*http.Client, error) {
 func getToken(conf *oauth2.Config, ctx context.Context) (*oauth2.Token, error) {
 	tokenStr, err := keyring.Get(keyringServiceName, keyringUsername)
 	if err != nil {
-		return nil, fmt.Errorf("you are not authenticated: use narutoep auth")
+		return nil, fmt.Errorf("you are not authenticated: use 'naruw auth'")
 	}
 	token := &oauth2.Token{}
 	err = json.Unmarshal([]byte(tokenStr), &token)

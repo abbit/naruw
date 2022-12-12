@@ -3,7 +3,7 @@ package cmd
 import (
 	"strconv"
 
-	"github.com/abbit/narutoep/internal"
+	"github.com/abbit/naruw/internal"
 	"github.com/spf13/cobra"
 )
 

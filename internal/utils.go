@@ -5,12 +5,12 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/abbit/narutoep/internal/shikimori"
+	"github.com/abbit/naruw/internal/shikimori"
 	"github.com/fatih/color"
 )
 
 const (
-	narutoEpisodesInfoJSONPath = "/Users/abbit/dev/projects/narutoep/data/naruto-p1-episodes-info.json" // TODO: make it generic
+	narutoEpisodesInfoJSONPath = "/Users/abbit/dev/projects/naruw/data/naruto-p1-episodes-info.json" // TODO: make it generic
 	shikimoriNarutoAnimeID     = 41932591
 )
 

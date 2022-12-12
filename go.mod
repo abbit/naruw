@@ -1,4 +1,4 @@
-module github.com/abbit/narutoep
+module github.com/abbit/naruw
 
 go 1.19
 

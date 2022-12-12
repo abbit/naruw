@@ -4,13 +4,13 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/abbit/narutoep/internal"
-	"github.com/abbit/narutoep/internal/config"
+	"github.com/abbit/naruw/internal"
+	"github.com/abbit/naruw/internal/config"
 	"github.com/spf13/cobra"
 )
 
 var rootCmd = &cobra.Command{
-	Use:   "narutoep",
+	Use:   "naruw",
 	Short: "CLI for managing Naruto anime episodes",
 	Long: `This CLI app allows to get information about Naruto episodes, 
 including whether the episode is a canon or filler episode,

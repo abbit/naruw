@@ -27,7 +27,7 @@ func InitConfig() {
 		return
 	}
 
-	configDir := path.Join(homeDir, ".config", "narutoep")
+	configDir := path.Join(homeDir, ".config", "naruw")
 	// if config folder doesn't exist, create it
 	if err := os.MkdirAll(configDir, 0755); err != nil {
 		fmt.Fprintln(os.Stderr, "Error creating config directory:", err)
