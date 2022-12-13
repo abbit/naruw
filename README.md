@@ -10,9 +10,10 @@ get last watched episode and mark episodes as watched on Shikimori.
 
 Some commands:
 
-- `info` - get information about episode
-- `last` - get last watched episode
-- `current` - get current episode
+- `info` - Get information about episode
+- `last` - Get last watched episode
+- `current` - Get current episode
+- `next` - Mark current episode as watched and get information about next episode
 
 ## Installation
 
