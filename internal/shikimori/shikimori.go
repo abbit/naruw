@@ -8,15 +8,20 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/abbit/naruw/internal/config"
 	"github.com/cli/browser"
 	"github.com/zalando/go-keyring"
 	"golang.org/x/oauth2"
 )
 
 const (
+	// keyring related constants
 	keyringServiceName = "shikimori-authorization-code"
 	keyringUsername    = "naruw"
+	// oauth2 related constants
+	shikimoriOauthURL          = "https://shikimori.one/oauth"
+	shikimoriOAuthAppName      = "narutoep"
+	shikimoriOAuthClientID     = "uDvhUSh3iibbH6IhJqrGtxLtLixWfIkx8bJ36C4Hcvg"
+	shikimoriOAuthClientSecret = "Q6XInqsVBDSWMYrWKr6ciHAJrbVZt3Fl5zsT9MEWFJA"
 )
 
 var (
@@ -25,15 +30,13 @@ var (
 )
 
 func initConfig() {
-	oauthCredentials := config.ShikimoriOAuthClientCredentials
-
 	_conf = &oauth2.Config{
-		ClientID:     oauthCredentials.ClientID,
-		ClientSecret: oauthCredentials.ClientSecret,
+		ClientID:     shikimoriOAuthClientID,
+		ClientSecret: shikimoriOAuthClientSecret,
 		Scopes:       []string{"user_rates"},
 		Endpoint: oauth2.Endpoint{
-			AuthURL:  "https://shikimori.one/oauth/authorize",
-			TokenURL: "https://shikimori.one/oauth/token",
+			AuthURL:  fmt.Sprintf("%s/authorize", shikimoriOauthURL),
+			TokenURL: fmt.Sprintf("%s/token", shikimoriOauthURL),
 		},
 		RedirectURL: "urn:ietf:wg:oauth:2.0:oob",
 	}
@@ -137,7 +140,7 @@ func doAPIRequest(method string, path string, body io.Reader) (*http.Response, e
 		return nil, fmt.Errorf("unable to create request: %w", err)
 	}
 
-	req.Header.Add("User-Agent", config.ShikimoriOAuthClientCredentials.AppName)
+	req.Header.Add("User-Agent", shikimoriOAuthAppName)
 
 	client, err := getClient()
 	if err != nil {
