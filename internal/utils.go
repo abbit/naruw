@@ -3,15 +3,15 @@ package internal
 import (
 	"encoding/json"
 	"fmt"
-	"os"
+	"net/http"
 
 	"github.com/abbit/naruw/internal/shikimori"
 	"github.com/fatih/color"
 )
 
 const (
-	narutoEpisodesInfoJSONPath = "/Users/abbit/dev/projects/naruw/data/naruto-p1-episodes-info.json" // TODO: make it generic
-	shikimoriNarutoAnimeID     = 41932591
+	narutoEpisodesInfoJsonURL = "https://raw.githubusercontent.com/abbit/naruw/main/data/naruto-p1-episodes-info.json"
+	shikimoriNarutoAnimeID    = 41932591
 )
 
 type EpisodeType string
@@ -55,18 +55,20 @@ func getNarutoUserRate() (shikimori.ShikimoriUserRate, error) {
 }
 
 func GetNarutoEpisodes() ([]Episode, error) {
-	// open the JSON file
-	file, err := os.Open(narutoEpisodesInfoJSONPath)
+	// get episodes info from URL
+	response, err := http.Get(narutoEpisodesInfoJsonURL)
 	if err != nil {
-		return nil, fmt.Errorf("unable to open JSON file: %w", err)
+		return nil, fmt.Errorf("unable to get episodes info: %w", err)
 	}
-	defer file.Close()
+	defer response.Body.Close()
 
-	// read and decode the JSON data
+	// read and decode episodes info
 	var episodes []Episode
-	if err := json.NewDecoder(file).Decode(&episodes); err != nil {
-		return nil, fmt.Errorf("unable to decode JSON data: %w", err)
+	if err := json.NewDecoder(response.Body).Decode(&episodes); err != nil {
+		return nil, fmt.Errorf("unable to decode episodes info: %w", err)
 	}
+
+	// TODO: add caching
 
 	return episodes, nil
 }
