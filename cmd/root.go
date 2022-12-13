@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/abbit/naruw/internal/config"
 	"github.com/spf13/cobra"
 )
 
@@ -33,9 +32,6 @@ get last watched episode and mark episodes as watched on Shikimori.`,
 }
 
 func Execute() {
-	// initialize config before executing the command
-	cobra.OnInitialize(config.InitConfig)
-
 	if err := newRootCommand().Execute(); err != nil {
 		os.Exit(1)
 	}

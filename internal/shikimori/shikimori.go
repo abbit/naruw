@@ -25,7 +25,7 @@ var (
 )
 
 func initConfig() {
-	oauthCredentials := config.GetShikimoriOAuthCredentials()
+	oauthCredentials := config.ShikimoriOAuthClientCredentials
 
 	_conf = &oauth2.Config{
 		ClientID:     oauthCredentials.ClientID,
@@ -137,7 +137,7 @@ func doAPIRequest(method string, path string, body io.Reader) (*http.Response, e
 		return nil, fmt.Errorf("unable to create request: %w", err)
 	}
 
-	req.Header.Add("User-Agent", config.GetShikimoriOAuthCredentials().AppName)
+	req.Header.Add("User-Agent", config.ShikimoriOAuthClientCredentials.AppName)
 
 	client, err := getClient()
 	if err != nil {
