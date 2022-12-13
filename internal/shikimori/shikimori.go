@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"os"
 	"time"
 
 	"github.com/cli/browser"
@@ -85,7 +86,17 @@ func getToken(conf *oauth2.Config, ctx context.Context) (*oauth2.Token, error) {
 		return nil, fmt.Errorf("unable to unmarshal token: %w", err)
 	}
 
-	// TODO: check token validity
+	// if token is expired, refresh and save it
+	if !token.Valid() {
+		token, err = conf.TokenSource(ctx, token).Token()
+		if err != nil {
+			fmt.Fprintf(os.Stderr, "unable to refresh token: %v\n", err)
+		} else {
+			if err := saveToken(token); err != nil {
+				fmt.Fprintf(os.Stderr, "unable to save token: %v\n", err)
+			}
+		}
+	}
 
 	return token, nil
 }
