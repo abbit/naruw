@@ -1,4 +1,7 @@
-// this script is used in browser to parse the naruto episodes from https://www.animefillerlist.com/shows/naruto
+// =========================================
+// this script is used in browserto parse the naruto episodes from https://www.animefillerlist.com/shows/naruto
+// =========================================
+
 let tableRows = Array.from(document.querySelector("tbody").children);
 
 let episodes = [];
@@ -15,3 +18,4 @@ tableRows.forEach((row) => {
 });
 
 let json = JSON.stringify(episodes);
+console.log(json);
