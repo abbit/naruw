@@ -9,6 +9,7 @@ import (
 	"time"
 
 	"github.com/abbit/naruw/internal/config"
+	"github.com/cli/browser"
 	"github.com/zalando/go-keyring"
 	"golang.org/x/oauth2"
 )
@@ -106,7 +107,9 @@ func Authenticate() error {
 
 	// Redirect user to consent page to ask for permission for the scopes specified above.
 	url := conf.AuthCodeURL("state", oauth2.AccessTypeOffline)
-	fmt.Printf("Visit the URL and get Authorization code: %v\n", url)
+	if err := browser.OpenURL(url); err != nil {
+		fmt.Printf("Visit the URL and get Authorization code:\n%v\n", url)
+	}
 
 	// Get the authorization code
 	var code string
